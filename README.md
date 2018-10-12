@@ -1,5 +1,4 @@
 # idea_codefundopp
-READ ME
 Over the recent past, most parts of India have been greatly affected by floods. The nation has been underprepared for most of these situations and has hence faced great social consequences. Considering all this, we have decided focus our work on predicting, preventing and dealing with floods. 
 
 For prediction, we are extracting relevant information mainly from daily precipitation records of the nation along with data on the effects and impact of previous floods which will serve to train our machine learning model. This will help us predict the incoming flood well in advance and help us take the required precautionary measures.The local authorities can be alerted to warn the locals and help them evacuate if necessary.
